@@ -23,7 +23,7 @@
 	
 <pre><code>Python main.py --parameter </code></pre>
 
-###Affichage console et graphe
+### Affichage console et graphe
 
 Pendant l’exécution du script, seul le parametre --check affiche une fenetre avec un graphe. Pour les autres parametres,
 l'interaction et l'affichage des informations se font par la console
